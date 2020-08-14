@@ -30,7 +30,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.oop3.js">
+  <component name="RunManager" selected="Node.js.oop2.js">
     <configuration name="functional1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/functional1.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -48,8 +48,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.oop3.js" />
         <item itemvalue="Node.js.oop2.js" />
+        <item itemvalue="Node.js.oop3.js" />
         <item itemvalue="Node.js.functional6.js" />
         <item itemvalue="Node.js.functional1.js" />
         <item itemvalue="Node.js.functional5.js" />

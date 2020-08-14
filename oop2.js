@@ -28,13 +28,12 @@ class SameNumbers extends Numbers {
     }
 }
 
-const arrayOfNumbers = [
-    new Numbers([1, 2, 3, 4, 5]),
-    new Numbers([6, 7, 8, 9, 10]),
-    new SameNumbers(2, 10),
-]
-
-for (let index = 0; index < arrayOfNumbers.length; index++) {
-    console.log(arrayOfNumbers[index].sumOf())
-    console.log(arrayOfNumbers[index].productOf())
-}
+const numbers1 = new Numbers([1, 2, 3, 4, 5])
+console.log(numbers1.sumOf())
+console.log(numbers1.productOf())
+const numbers2 = new Numbers([6, 7, 8, 9, 10])
+console.log(numbers2.sumOf())
+console.log(numbers2.productOf())
+const numbers3 = new SameNumbers(2, 10)
+console.log(numbers3.sumOf())
+console.log(numbers3.productOf())
