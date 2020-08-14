@@ -26,6 +26,14 @@ class SameNumbers extends Numbers {
         this.value = value
         this.times = times
     }
+
+    sumOf() {
+        return this.value * this.times
+    }
+
+    productOf() {
+        return Math.pow(this.value, this.times)
+    }
 }
 
 const arrayOfNumbers = [
